@@ -1,4 +1,4 @@
-# 
+# professional MEV sniper bot scripts is the best MEV sniper bot scripts with low-cap-gem-detection and trailing-stop. Safe, reliable, and optimized for MEV, sniper, and arbitrage
 
 
 
